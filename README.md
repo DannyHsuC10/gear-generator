@@ -1,4 +1,4 @@
-# Gearbox design
+# Gear-Generator
 這個模組用於設計齒輪箱，可生成的數據給kisssoft使用。
 
 ## 主要設計流程
