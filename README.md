@@ -29,6 +29,7 @@ load_data('檔案名稱')
 1. [輸出判斷](base_Analysis/introduction/Output_check.md) : 用於簡單檢查最後輸出結果
 1. [簡單強度評估](base_Analysis/introduction/tooth_Strength.md) : 可靠度有限，粗略評估強度用。
 1. [齒輪對計算總表](base_Analysis/introduction/Gear_Transmission_Sheet.md) : 數據計算表，快速計算很多數據資料。
+1. [齒輪慣性算](/base_Analysis/introduction/inertia.md) : 快速估算整個齒輪箱的轉動慣量。
 
 ## Gear system Designer資料夾
 這是[齒輪系布局展示程式(Gear_system_Designer)](introduction/gear_sys.md) 的函式庫，裡面有齒輪參數計算的底層和xy坐標系、極坐標系的齒輪繪圖邏輯。極座標主要方便產生單一齒輪草圖，而xy坐標系可以產生整個行星齒輪組。
