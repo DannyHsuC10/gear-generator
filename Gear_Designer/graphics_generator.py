@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from Gear_Designer import gear_parameters as gp
-from Gear_Designer import data
+import gear_parameters as gp
+import data
 
 V = 1
 

@@ -1,0 +1,8 @@
+﻿name,value,註解,unit
+tau_ult,560,強度,Mpa
+T_min,20,最小齒數,
+z,15,放大比,
+T_motor,21,馬達扭矩,Nm
+h,20,齒寬,mm
+M_min,0.8,選用模數,mm
+SF,5,安全係數,

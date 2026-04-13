@@ -1,7 +1,7 @@
 from pathlib import Path
 import openpyxl
 import os
-from Gear_Designer import gear_parameters as gp
+import gear_parameters as gp
 
 
 M = 1#模數(單位:mm)>0
