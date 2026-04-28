@@ -1,11 +1,11 @@
 ﻿name,value,註解,unit
 g,9.81,重力加速,kg*m/s^2
-m,310,車重,kg
+m,360,車重,kg
 l,1.55,軸距,m
 l_f,0.775,前軸到重心,m
 h_cog,0.2645,重心高,m
-r_w,0.203,輪胎半徑,m
-mu_w,1.5,線性摩擦係數,
-RPM_motor_max,16000,峰值轉速,RPM
+r_w,0.259,輪胎半徑,m
+mu_w,1.2,線性摩擦係數,
+RPM_motor_max,12000,峰值轉速,RPM
 T_motor_max,21,扭矩,Nm
 v_target,110,目標極速度,km/h

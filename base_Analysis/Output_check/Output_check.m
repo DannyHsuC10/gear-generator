@@ -9,7 +9,7 @@ load_data('acc');
 % =========================
 
 z = (Tp1/Ts)*(Tr/Tp2);
-%z = 11.2;%1.2g
+
 fprintf('放大比: %.2f \n',z)
 
 T_out = T_motor_max*z;% -49 可以簡單估算阻力減去
